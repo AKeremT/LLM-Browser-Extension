@@ -22,6 +22,8 @@ The GGUF format language model is not included in this repository due to its lar
 Instead, you can find and download the model from Hugging Face Hub.
 To make the application work:
 
+https://huggingface.co/QuantFactory/Llama-3.2-3B-GGUF
+
 1-Download the GGUF model from Hugging Face Hub.
 
 2-Create a models/ directory in your project’s root directory:
