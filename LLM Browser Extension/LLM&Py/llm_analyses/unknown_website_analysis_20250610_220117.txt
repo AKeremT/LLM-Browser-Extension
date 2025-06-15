@@ -1,0 +1,20 @@
+Website URL: unknown_website
+Analysis Date: 2025-06-10 22:01:17
+
+LLM Analysis for unknown_website:
+Analysis:
+1. Overall Status:  "Risky"
+2. Summary: The terms and conditions grant ShadyCorp permission to access users' contacts and messages without explicit consent, which raises concerns about privacy and data protection. Additionally, the lack of data deletion option and the vague sharing of personal data with "trusted partners" without notification may violate users' rights and laws, such as GDPR. The terms and conditions also lack transparency and clarity, making it difficult for users to understand their rights and obligations.
+3. Recommendation: Avoid using this website and review the terms and conditions carefully before proceeding. If possible, look for alternative websites with more transparent and user-friendly terms and conditions. Consider reporting the website to relevant authorities for violating data protection laws.
+
+---
+
+Original Terms and Conditions (First 2000 characters for context):
+Welcome to ShadyCorp
+Terms and Conditions
+
+By using this website, you automatically grant us permission to access your contacts and messages.
+
+We may share your personal data with our "trusted partners" without notifying you.
+
+Users cannot delete their data once submitted.

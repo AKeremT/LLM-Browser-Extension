@@ -1,0 +1,31 @@
+Website URL: https://x.com/en/tos/previous/version_13
+Analysis Date: 2025-06-11 12:04:52
+
+LLM Analysis for x.com:
+[Your response here]
+
+---
+
+Original Terms and Conditions (First 2000 characters for context):
+Twitter Terms of Service
+Download: Twitter User Agreement
+Terms of Service- If you live in the United States
+Terms of Service- If you live outside of the United States
+Twitter Terms of Service
+
+If you live in the United States, the Twitter User Agreement comprises these Terms of Service, our Privacy Policy, the Twitter Rules and Policies, and all incorporated policies
+
+If you live in the European Union or otherwise outside the United States, the Twitter User Agreement comprises these Terms of Service, our Privacy Policy, the Twitter Rules and Policies, and all incorporated policies.
+
+ 
+ 
+Twitter Terms of Service
+If you live in the United States
+
+These Terms of Service (“Terms”) govern your access to and use of our services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, commerce services, and our other covered services (https://help.twitter.com/en/rules-and-policies/twitter-services-and-corporate-affiliates) that link to these Terms (collectively, the “Services”), and any information, text, links, graphics, photos, audio, videos, or other materials or arrangements of materials uploaded, downloaded or appearing on the Services (collectively referred to as “Content”). By using the Services you agree to be bound by these Terms.
+
+1. Who May Use the Services 2. Privacy 3. Content on the Services 4. Using the Services 5. Disclaimers and Limitations of Liability 6. General
+ 
+1. Who May Use the Services
+
+You may use the Services only if you agree to form a binding contract with Twitter and are not a person barred from receiving services under the laws of the applicable jurisdiction. In any case, you must be at least 13 years old, or in the case of Periscope 16 years old, to use the Services. If you are accepting these Terms and using the Services on behalf of a company, organization, government, or other legal entity, you represent and warrant that you are authorized to do so and have the authority to bind such entity to...

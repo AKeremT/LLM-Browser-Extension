@@ -1,0 +1,19 @@
+Website URL: file:///C:/Users/AKT/Desktop/terms_dangerous.html
+Analysis Date: 2025-06-11 11:39:16
+
+LLM Analysis for file_:
+Analysis:
+1. Overall Status:  "Risky"
+2. Summary: The terms and conditions grant ShadyCorp permission to access users' contacts and messages without explicit consent, which raises concerns about privacy and data protection. Additionally, the lack of data deletion option and the vague sharing of personal data with "trusted partners" without notification may violate users' rights and laws, such as GDPR. The terms and conditions also lack transparency and clarity, making it difficult for users to understand their rights and obligations.
+3. Recommendation: Avoid using this website and review the terms and conditions carefully before proceeding. If possible, look for alternative websites with more transparent and user-friendly terms and conditions. Consider reporting the website to relevant authorities for violating data protection laws.
+
+---
+
+Relevant Terms and Conditions Section (up to 2000 chars):
+Terms and Conditions
+
+By using this website, you automatically grant us permission to access your contacts and messages.
+
+We may share your personal data with our "trusted partners" without notifying you.
+
+Users cannot delete their data once submitted.

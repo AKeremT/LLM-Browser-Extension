@@ -1,0 +1,37 @@
+Website URL: https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM
+Analysis Date: 2025-06-11 11:46:33
+
+LLM Analysis for amazon.com:
+1. Overall Status: "Safe" or "Risky"
+2. Summary: Summarize the content in 2-3 sentences. If there are any risks, briefly explain which clauses are problematic and what rights or laws they may violate.
+3. Recommendation: (Optional) A short suggestion for the user if needed.
+**Overall Status:** Safe
+**Summary:** The "Conditions of Use" text is a standard set of terms and conditions for using Amazon services. The text outlines the purpose of the agreement, explains what services are provided, and defines the terms of use for users. The clauses are generally clear and well-structured. There are no apparent risks or problematic clauses that violate user rights or laws.
+**Recommendation:** If you plan to use Amazon services, please carefully read and understand these conditions of use before proceeding. Additionally, take a moment to review Amazon's privacy notice to ensure you understand how your personal data will be handled.
+
+---
+
+Relevant Terms and Conditions Section (up to 2000 chars):
+policy and will not cause injury to any person or entity; and that you will indemnify Amazon for all claims resulting from content you supply. Amazon has the right but not the obligation to monitor and edit or remove any activity or content. Amazon takes no responsibility and assumes no liability for any content posted by you or any third party.
+
+INTELLECTUAL PROPERTY COMPLAINTS
+
+Amazon respects the intellectual property of others. If you believe that your intellectual property rights are being infringed, please follow our Notice and Procedure for Making Claims of Copyright Infringement.
+
+RISK OF LOSS
+
+All purchases of physical items from Amazon are made pursuant to a shipment contract. This means that the risk of loss and title for such items pass to you upon our delivery to the carrier.
+
+RETURNS, REFUNDS AND TITLE
+
+Amazon does not take title to returned items until the item arrives at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, Amazon does not take title to the refunded item. For more information about our returns and refunds, please see our Returns Center.
+
+PRODUCT DESCRIPTIONS
+
+Amazon attempts to be as accurate as possible. However, Amazon does not warrant that product descriptions or other content of any Amazon Service is accurate, complete, reliable, current, or error-free. If a product offered by Amazon itself is not as described, your sole remedy is to return it in unused condition. 
+
+PRICING
+
+With respect to items sold by Amazon, we cannot confirm the price of an item until you order. Despite our best efforts, a small number of the items in our catalog may be mispriced. If the correct price of an item sold by Amazon is higher than our stated price, we will, at our discretion, either contact you for instructions before shipping or cancel your order and notify you of such cancellation. Other merchants may follow different policies in the event of a mispriced item. 
+
+We generally do not charg...

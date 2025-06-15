@@ -1,0 +1,25 @@
+Website URL: file:///C:/Users/AKT/Desktop/terms_dangerous.html
+Analysis Date: 2025-06-10 22:07:51
+
+LLM Analysis for file::
+Analyze the text and provide your response in the following format:
+1. Overall Status: 
+2. Summary: 
+3. Recommendation: (Optional)
+
+Here's my response:
+1. Overall Status: **Risky**
+2. Summary: This "Terms and Conditions" text poses several concerns. The first clause grants permission to access the user's contacts and messages without explicit consent, which may be in violation of privacy laws such as GDPR. The second clause allows the company to share personal data with "trusted partners" without informing the user, which raises concerns about data protection and transparency. Additionally, the third clause prohibits users from deleting their data once submitted, which can be a violation of data subjects' rights under the GDPR.
+3. Recommendation: Users should exercise caution and carefully review these terms before using the website. It may be a good idea to seek additional information about the company's data handling practices before submitting any personal information. If concerned, users may consider finding alternative websites that provide more transparent and user-friendly terms.
+
+---
+
+Original Terms and Conditions (First 2000 characters for context):
+Welcome to ShadyCorp
+Terms and Conditions
+
+By using this website, you automatically grant us permission to access your contacts and messages.
+
+We may share your personal data with our "trusted partners" without notifying you.
+
+Users cannot delete their data once submitted.

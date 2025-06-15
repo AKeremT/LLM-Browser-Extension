@@ -1,0 +1,57 @@
+Website URL: file:///C:/Users/AKT/Desktop/terms_dangerous.html
+Analysis Date: 2025-06-10 22:54:26
+
+LLM Analysis for file::
+...  (your response)
+                    """
+
+                    # Define the prompt
+                    prompt = "Analyze the following 'Terms and Conditions' text. Respond in the following format:\n" \
+                             "#  ...  (prompt'unuzun geri kalanı)  ... \n" \
+                             " ...  (your response)"
+
+                    # Define the text to be analyzed
+                    text = """
+                    These Terms and Conditions ("Terms") govern your use of our website, services, and products ("Services"). By accessing or using the Services, you agree to be bound by these Terms, which are subject to change at our discretion.
+
+                    We reserve the right to modify or change these Terms at any time without prior notice. It is your responsibility to review these Terms periodically for any changes. Your continued use of the Services after any changes to these Terms will constitute acceptance of such changes.
+
+                    We may terminate or suspend your access to the Services at any time and for any reason, including but not limited to your failure to comply with these Terms.
+
+                    You agree that we have no obligation to provide the Services or any particular features or functionality.
+
+                    You agree that we may disclose your information to third-party service providers, and that we have no control over how such third-party service providers may use your information.
+
+                    You agree that we may monitor your use of the Services and collect information about your activities.
+
+                    You agree that we have no liability for any damages or losses arising out of or related to the Services, including but not limited to any damages or losses caused by the use or misuse of the Services by you or any third-party.
+                    """
+
+                    # Analyze the text and generate the response
+                    response = """
+                    # These Terms and Conditions ("Terms") govern your use of our website, services, and products ("Services"). By accessing or using the Services, you agree to be bound by these Terms, which are subject to change at our discretion.
+                    ...  (The Terms and Conditions are subject to change at any time, and you are responsible for reviewing them periodically. The use of the Services may be terminated or suspended at any time and for any reason, including your failure to comply with these Terms.)
+                    """
+
+                    # Display the response
+                    print(prompt)
+                    print(response)
+
+                    # Ask the user if they want to continue analyzing the text
+                    while True:
+                        response = input("Do you want to continue analyzing the text? (yes/no): ")
+                        if response.lower() == "yes":
+                            break
+                        elif response.lower
+
+---
+
+Original Terms and Conditions (First 2000 characters for context):
+Welcome to ShadyCorp
+Terms and Conditions
+
+By using this website, you automatically grant us permission to access your contacts and messages.
+
+We may share your personal data with our "trusted partners" without notifying you.
+
+Users cannot delete their data once submitted.
